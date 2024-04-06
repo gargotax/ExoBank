@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\bin\Debug\net6.0\ExoBank.exe
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\bin\Debug\net6.0\ExoBank.deps.json
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\bin\Debug\net6.0\ExoBank.runtimeconfig.json
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\bin\Debug\net6.0\ExoBank.dll
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\bin\Debug\net6.0\ExoBank.pdb
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\obj\Debug\net6.0\ExoBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\obj\Debug\net6.0\ExoBank.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\obj\Debug\net6.0\ExoBank.AssemblyInfo.cs
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\obj\Debug\net6.0\ExoBank.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\obj\Debug\net6.0\ExoBank.dll
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\obj\Debug\net6.0\refint\ExoBank.dll
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\obj\Debug\net6.0\ExoBank.pdb
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\obj\Debug\net6.0\ExoBank.genruntimeconfig.cache
+C:\Users\HP\Desktop\hachemi\mestests\ExoBank\ExoBank\obj\Debug\net6.0\ref\ExoBank.dll
